@@ -1,6 +1,6 @@
 AB Testing
 
-1. Set up hypotheses
+1. Set up Hypothesis
 
 2. Assumption Check
 
