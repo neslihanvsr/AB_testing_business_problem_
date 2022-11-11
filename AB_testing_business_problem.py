@@ -12,9 +12,7 @@
 # - 1. If assumptions are provided, t-test from two independent samples (parametric test)
 # - 2. Mannwhitneyu test if absence of assumptions (non-parametric test)
 # 4. Interpret results based on p-value
-# Note:
-# - Direct number 2 if the assumption of normality is not met. If variance homogeneity is not provided, argument number 1 is entered.
-# - It may be helpful to examine and correct for outliers before examining normality.
+
 
 import itertools
 import numpy as np
